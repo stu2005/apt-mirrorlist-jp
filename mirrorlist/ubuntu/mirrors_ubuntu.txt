@@ -1,6 +1,6 @@
 https://ftp.udx.icscoe.jp/Linux/ubuntu/
 https://mirror.nishi.network/ubuntu/
-https://linux.yz.yamagata-u.ac.jp/ubuntu/
+https://ftp.yz.yamagata-u.ac.jp/ubuntu/
 https://ftp.tsukuba.wide.ad.jp/ubuntu/
 https://ftp.jaist.ac.jp/ubuntu/
 https://jp.mirror.coganng.com/ubuntu/
