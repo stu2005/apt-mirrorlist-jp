@@ -1,0 +1,6 @@
+https://ftp.jaist.ac.jp/pub/Linux/ubuntu-jp-archive/ubuntu/
+https://www.ftp.ne.jp/Linux/packages/ubuntu-jp/archive/ubuntu/
+https://ftp.riken.jp/Linux/ubuntu-jp/archive/ubuntu/
+http://archive.ubuntulinux.jp/ubuntu/
+http://archive-u-toyama.ubuntulinux.jp/ubuntu/
+http://archive-appcel.ubuntulinux.jp/ubuntu/
