@@ -1,0 +1,15 @@
+https://deb.debian.org/debian/
+https://ftp.tsukuba.wide.ad.jp/debian/
+https://dennou-h.gfd-dennou.org/debian/
+https://dennou-k.gfd-dennou.org/debian/
+https://dennou-q.gfd-dennou.org/debian/
+https://ftp.sakura.ad.jp/debian/
+https://ftp.riken.jp/Linux/debian/debian/
+https://www.ftp.ne.jp/pub/Linux/distributions/Debian/debian/
+https://mirrors.xtom.jp/debian/
+https://repo.jing.rocks/debian/
+https://ftp.yz.yamagata-u.ac.jp/debian/
+https://ftp.jaist.ac.jp/debian/
+https://mirror.nishi.network/debian/
+https://jp.mirror.coganng.com/debian/
+https://mirrors.cat.net/debian/

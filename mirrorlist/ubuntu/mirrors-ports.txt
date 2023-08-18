@@ -1,0 +1,5 @@
+https://mirror.nishi.network/ubuntu-ports/
+https://ftp.tsukuba.wide.ad.jp/Linux/ubuntu-ports/
+https://jp.mirror.coganng.com/ubuntu-ports/
+https://mirrors.xtom.jp/ubuntu-ports/
+https://mirrors.cat.net/ubuntu-ports/

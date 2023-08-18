@@ -1,0 +1,2 @@
+https://ftp.jaist.ac.jp/pub/Linux/linuxmint/packages/
+https://ftp.riken.jp/Linux/linuxmint/packages/
