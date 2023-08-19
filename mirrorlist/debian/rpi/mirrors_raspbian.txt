@@ -1,0 +1,5 @@
+https://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/
+https://ftp.yz.yamagata-u.ac.jp/pub/linux/raspbian/raspbian/
+https://ftp.jaist.ac.jp/raspbian/
+https://ftp.udx.icscoe.jp/Linux/raspbian/raspbian/
+https://repo.jing.rocks/raspbian/raspbian/
