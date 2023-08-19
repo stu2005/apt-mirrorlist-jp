@@ -1,3 +1,4 @@
+http://jp.archive.ubuntu.com/ubuntu/
 https://ftp.udx.icscoe.jp/Linux/ubuntu/
 https://mirror.nishi.network/ubuntu/
 https://ftp.yz.yamagata-u.ac.jp/ubuntu/

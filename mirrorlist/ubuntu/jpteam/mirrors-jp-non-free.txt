@@ -1,3 +1,4 @@
+http://archive.ubuntulinux.jp/ubuntu-ja-non-free/
 https://ftp.jaist.ac.jp/pub/Linux/ubuntu-jp-archive/ubuntu-ja-non-free/
 https://srv2.ftp.ne.jp/Linux/packages/ubuntu-jp/archive/ubuntu-ja-non-free/
 https://ftp.riken.jp/Linux/ubuntu-jp/archive/ubuntu-ja-non-free/
